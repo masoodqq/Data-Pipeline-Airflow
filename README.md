@@ -15,4 +15,4 @@ The dataset files and database design is based on the project desribed in <a hre
 
 Following is a image of DAG implementing above steps.
 
-<img src="/dag.png" alt="ERD" style="max-width:100%;">
+<img src="/dag.png" alt="Dag" style="max-width:100%;">
